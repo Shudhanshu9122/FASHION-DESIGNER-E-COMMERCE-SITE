@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
+    "@types/three": "^0.175.0",
+    "framer-motion": "^12.6.3",
+    "react-router-dom": "^7.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.1"
+  }
+}
